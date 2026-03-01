@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "practice4",
+  "name": "practice5-prod",
   "main": "worker/index.ts",
   "compatibility_date": "2026-02-19",
 
